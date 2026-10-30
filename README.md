@@ -1,6 +1,6 @@
 # Sanad Squad publications
 
-Public audit reports, research and talks from Sanad Squad. We audit and build on-chain programs (Solana and EVM) and AI agents that move funds, including agentic payment rails such as x402.
+Public audit reports, research and talks from Sanad Squad. We audit and build on-chain programs (Solana and EVM) and AI agents that move funds, including agentic payment security and infrastructure such as x402 and agentic payment rails.
 
 Website: https://sanadsquad.com
 Contact: frank@sanadsquad.com
