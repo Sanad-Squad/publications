@@ -7,15 +7,16 @@ Contact: frank@sanadsquad.com
 
 ## Publications
 
-| Name | Type | Focus area | Link |
-|------|------|------------|------|
+| Date | Name | Type | Focus area | Link |
+|------|------|------|------------|------|
 <!-- One row per publication, newest first.
+Date: YYYY-MM (publication month).
 Name: protocol name for audits, title for research, blogs and talks.
 Type: Audit, Research, Blog or Talk.
 Focus area: e.g. Solana (Anchor), EVM, AI agents, Agentic payments (x402).
 Examples:
-| Quantum | Audit | Solana (Anchor), pAMM | [Report](reports/2026-11-sanad-squad-quantum-pamm.pdf) |
-| Solana CTF write-ups: 0xCairo | Research | Solana (Anchor) | [Read](research/0xcairo-ctf-writeups.md) |
+| 2026-11 | Quantum | Audit | Solana (Anchor), pAMM | [Report](reports/2026-11-sanad-squad-quantum-pamm.pdf) |
+| 2026-10 | Solana CTF write-ups: 0xCairo | Research | Solana (Anchor) | [Read](research/0xcairo-ctf-writeups.md) |
 -->
 
 
