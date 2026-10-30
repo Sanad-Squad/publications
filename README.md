@@ -5,25 +5,19 @@ Public audit reports, research and talks from Sanad Squad. We audit and build on
 Website: https://sanadsquad.com
 Contact: frank@sanadsquad.com
 
-## Audit reports
+## Publications
 
-Severity counts are Critical / High / Medium / Low / Informational.
-
-| Date | Client | Scope | Language | C / H / M / L / I | Report |
-|------|--------|-------|----------|-------------------|--------|
-<!-- Add one row per published report, newest first. Example:
-| 2026-11 | Quantum | pAMM | Rust (Anchor) | 0 / 2 / 3 / 4 / 6 | [PDF](reports/2026-11-sanad-squad-quantum-pamm.pdf) |
+| Name | Type | Focus area | Link |
+|------|------|------------|------|
+<!-- One row per publication, newest first.
+Name: protocol name for audits, title for research, blogs and talks.
+Type: Audit, Research, Blog or Talk.
+Focus area: e.g. Solana (Anchor), EVM, AI agents, Agentic payments (x402).
+Examples:
+| Quantum | Audit | Solana (Anchor), pAMM | [Report](reports/2026-11-sanad-squad-quantum-pamm.pdf) |
+| Solana CTF write-ups: 0xCairo | Research | Solana (Anchor) | [Read](research/0xcairo-ctf-writeups.md) |
 -->
 
-## Research
-
-| Date | Title | Topic | Link |
-|------|-------|-------|------|
-
-## Talks and workshops
-
-| Date | Title | Venue | Material |
-|------|-------|-------|----------|
 
 ## Team
 

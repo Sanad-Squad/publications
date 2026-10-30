@@ -15,7 +15,7 @@ Run through this list before a report goes into `reports/`.
 ## The commit
 
 - [ ] PDF added under `reports/`.
-- [ ] Row added to the top of the audit table in `README.md` with severity counts.
+- [ ] Row added to the top of the Publications table in `README.md` (Name, Type, Focus area, Link).
 - [ ] Commit message: `report: <client> <scope>`.
 
 ## After the commit
