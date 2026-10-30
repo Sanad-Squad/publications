@@ -24,8 +24,8 @@ Examples:
 
 | Name | Role | Links |
 |------|------|-------|
-| Mohamed Aboyounes (Frank Castle) | Co-founder, CEO | [X](https://x.com/0xcastle_chain) / [GitHub](https://github.com/Frankcastleauditor) / [Site](https://frankcastle.xyz) |
-| Al-Qa'qa' | Co-founder, CTO, Senior Security Researcher | |
+| Frank Castle | Co-founder, CEO, Senior Security Researcher | [X](https://x.com/0xcastle_chain) / [GitHub](https://github.com/Frankcastleauditor) / [Site](https://frankcastle.xyz) |
+| Al-Qa'qa' | Co-founder, CTO, Senior Security Researcher | [X](https://x.com/Al_Qa_qa) / [GitHub](https://github.com/Al-Qa-qa) |
 
 ## Request an audit
 
